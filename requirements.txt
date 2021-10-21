@@ -1,4 +1,4 @@
-Babel==2.8.0
+Babel==2.9.1
 captcha==0.3
 django-bootstrap3==11.0.0
 django-crispy-forms==1.7.2
